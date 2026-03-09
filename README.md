@@ -46,7 +46,7 @@ XERO Gamertag Checker は、ランダムに生成したゲーマータグが Xbo
 
 **EXE版（推奨）:**
 ```
-XERO_TagChecker.exe をダブルクリック
+GamerTagChecker.exe をダブルクリック
 ```
 
 **Python版:**
